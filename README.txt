@@ -1,0 +1,2 @@
+This is a project I did in a university course of Business intelligence; in this project my teammates and I took a database of Cruise company called "Princes cruise". The database was made using Entity Relationship Diagram (ERD) filled with the company customers and reservation details.
+We build Star schema with two facts tables and made all the ETL processes using Talend. At the end of the projects, we developed dashboards using Tableau.

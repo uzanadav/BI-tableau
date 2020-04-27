@@ -1,0 +1,633 @@
+Port_code,Language,Country,City
+1000,Ainu                ,Albania,Abashiri
+1001,Arabic              ,Algeria,Abidjan
+1002,Nahua               ,American Samoa,Aberdeen
+1003,Creole French       ,Angola,Anzac Cove (Scenic Cruising)
+1004,Mixtec              ,Argentina,Acajutla
+1005,Arabic              ,Argentina,Amber Cove
+1006,Arabic              ,ARGENTINA,Acapulco
+1007,Danish              ,Argentina,Lanzarote (Arrecife)
+1008,English             ,Argentina,Aden
+1009,Greek               ,Armenia,Adelaide
+1010,Arabic              ,Australia,Kodiak
+1011,Arabic              ,Australia,Sochi
+1012,Basque              ,Australia,Alesund
+1013,Albaniana           ,Australia,Akureyri
+1014,Arabic              ,Australia,Amalia Glacier
+1015,English             ,Australia,Cephalonia (Argostoli)
+1016,English             ,Australia,Agadir
+1017,Danish              ,Australia,Helsingborg
+1018,Basque              ,Australia,Malaga
+1019,Basque              ,Australia,Sardinia (Alghero)
+1020,Danish              ,Australia,Corsica (Ajaccio)
+1021,Arabic              ,Australia,Akaroa
+1022,Arabic              ,Australia,Auckland
+1023,Bali                ,Australia,Alesund
+1024,Bali                ,Australia,Algeciras
+1025,Arabic              ,Australia,Alicante
+1026,Danish              ,Australia,Alta
+1027,Arabic              ,Australia,Algiers
+1028,Albaniana           ,Australia,Albany
+1029,Ainu                ,Australia,Alexandria
+1030,Arabic              ,Australia,Lombok
+1031,Aimar               ,Australia,Ambon
+1032,Arabic              ,Australia,Amsterdam
+1033,Ainu                ,Australia,Andalsnes
+1034,Malenasian Languages,Australia,Anchorage
+1035,Greek               ,Australia,Brussels (Antwerp)
+1036,English             ,Australia,Ancona
+1037,Ainu                ,Australia,Aomori
+1038,Arabic              ,Australia,Apia
+1039,Arabic              ,Australia,Aqaba (for Petra)
+1040,Indian Languages    ,Australia,Arica
+1041,Bicol               ,Australia,Jerusalem/Bethlehem (Ashdod)
+1042,Basque              ,Australia,Amami Oshima (Naze)
+1043,German              ,Australia,Astoria
+1044,Arabic              ,Australia,Alotau
+1045,Arabic              ,Australia,Athens (Piraeus)
+1046,English             ,Austria,Auckland
+1047,Danish              ,Bahamas,Catalina Island
+1048,English             ,Bahamas,Akita
+1049,Bali                ,Bahamas,Antalya
+1050,Basque              ,Bahrain,Manama
+1051,Diola               ,Belgium,Bariloche
+1052,Chinese             ,Belgium,Boracay
+1053,Chinese             ,Belize,Barcelona
+1054,Arabic              ,Benin,Belem
+1055,Arabic              ,Brazil,Brest
+1056,Chinese             ,Brazil,Beirut
+1057,Asami               ,Brazil,Bluff
+1058,Ainu                ,Brazil,Belfast
+1059,Arabic              ,Brazil,Bergen
+1060,Albaniana           ,Brazil,Bar Harbor
+1061,Indian Languages    ,Brazil,Bay of Islands
+1062,Arabic              ,Brazil,Bitung
+1063,Chinese             ,Brazil,Bilbao
+1064,Arabic              ,Brazil,Banjul
+1065,Arabic              ,Brazil,Kota Kinabalu
+1066,German              ,Brazil,Bangkok
+1067,English             ,Brazil,Broome
+1068,Basque              ,Brunei,Brisbane
+1069,Aimar               ,Bulgaria,Bosporus Strait
+1070,Basque              ,Bulgaria,Bora Bora
+1071,Albaniana           ,Bulgaria,Mumbai
+1072,Arabic              ,Cambodia,Bonaire
+1073,Basque              ,Canada,Boston
+1074,Arabic              ,Canada,Beppu
+1075,Arabic              ,Canada,Bequia
+1076,Malenasian Languages,Canada,Margaret River
+1077,Greek               ,Canada,Bari
+1078,Aimar               ,Cayman Islands,Buenos Aires
+1079,English             ,Chile,Bunbury
+1080,Greek               ,Chile,Boca da Valeria
+1081,English             ,Chile,Lake District
+1082,Chinese             ,Chile,Baltimore
+1083,Arabic              ,Chile,Bandar Seri Begawan (Muara)
+1084,Mixtec              ,Chile,Burnie (Tasmania)
+1085,Mixed Languages     ,Chile,Bodrum
+1086,German              ,Chile,Bayonne
+1087,Arabic              ,Chile,Armacao dos Buzios
+1088,Asami               ,China,Belize City
+1089,Adja                ,China,Seville (Cadiz)
+1090,Aimar               ,China,Lima (Callao)
+1091,Arabic              ,China,Cartagena
+1092,Afrikaans           ,China,Sardinia (Cagliari)
+1093,Arabic              ,China,Casablanca
+1094,Albaniana           ,China,Caracas Bay
+1095,Arawakan            ,China,Wineglass Bay &amp; Oyster Bay (Scenic Cruising)
+1096,Arabic              ,China,St. John
+1097,Kiribati            ,China,Cork
+1098,Mixtec              ,China,Ceuta (Spanish Morocco)
+1099,Chinese             ,Colombia,Cannes
+1100,Serbo-Croatian      ,Colombia,Cherbourg
+1101,Creole French       ,Congo,College Fjord
+1102,Diola               ,Cook Islands,Conflict Islands
+1103,English             ,Costa Rica,Corfu
+1104,Chinese             ,Costa Rica,Puerto Chacabuco
+1105,Arabic              ,Costa Rica,Cid Harbour
+1106,Malenasian Languages,Costa Rica,Nevis
+1107,Bali                ,Costa Rica,Christchurch (Lyttelton)
+1108,Arabic              ,Croatia,Crete (Chania)
+1109,Arabic              ,Croatia,Charleston
+1110,English             ,Croatia,Chatham Islands Cruising
+1111,English             ,Croatia,Jeju
+1112,Afrikaans           ,Croatia,Chuuk
+1113,French              ,Croatia,Canakkale
+1114,Arabic              ,Croatia,Calica
+1115,Arabic              ,Croatia,Campbell River
+1116,Albaniana           ,Cyprus,Colombo
+1117,Danish              ,Cyprus,Constanta
+1118,Afrikaans           ,Czech Republic,Cairns
+1119,Albaniana           ,Denmark,Cochin
+1120,Arabic              ,Denmark,Cotonou
+1121,Mixtec              ,Denmark,La Serena (Coquimbo)
+1122,Ketua               ,Denmark,Copenhagen
+1123,Arabic              ,Denmark,Cape Town
+1124,Chinese             ,Denmark,Cristobal
+1125,Indian Languages    ,Dominican Republic,Catalina Island
+1126,Creole English      ,Dominican Republic,Sicily (Catania)
+1127,Arabic              ,Dominican Republic,Cartagena
+1128,Albaniana           ,Dominican Republic,Cooktown
+1129,Arabic              ,Dominican Republic,Christmas Island
+1130,Danish              ,Ecuador,Cozumel
+1131,Albaniana           ,Ecuador,Dardenelles
+1132,Portuguese          ,Ecuador,Da Nang
+1133,German              ,Ecuador,Dubrovnik
+1134,Creole English      ,Egypt,Deception Island
+1135,Ainu                ,Egypt,Devils Island (Isle Royale)
+1136,English             ,Egypt,Dakar
+1137,Danish              ,Egypt,Dublin (Dun Laoghaire)
+1138,Arabic              ,El Salvador,Dalian
+1139,Ainu                ,Eritrea,Dundee
+1140,German              ,Estonia,Doha
+1141,English             ,Finland,Doini Island
+1142,Basque              ,Finland,Bali (Benoa)
+1143,Arabic              ,Finland,Dravuni Island
+1144,Goajiro             ,France,Darwin
+1145,Basque              ,France,Dartmouth
+1146,Albaniana           ,France,Dunkirk
+1147,Danish              ,France,Dublin
+1148,Arabic              ,France,Dunedin
+1149,Danish              ,France,Durban
+1150,English             ,France,Dutch Harbor (Aleutian Islands)
+1151,English             ,France,Divine Island
+1152,Greek               ,France,Dubai
+1153,Ket+C123ua          ,France,Mayotte
+1154,Arabic              ,France,Elba
+1155,Danish              ,France,Elephant Island
+1156,Chinese             ,France,Eidfjord
+1157,Arabic              ,France,East London
+1158,Arabic              ,France,Porto Empedocle
+1159,Danish              ,France,Esperance
+1160,English             ,FRANCE,Ensenada
+1161,Estonian            ,France,Esmeraldas
+1162,Greek               ,France,Exmouth
+1163,Danish              ,France,Key West
+1164,Arabic              ,France,Esperanza Station
+1165,Danish              ,France,BUENOS AIRES
+1166,Ainu                ,France,Cornwall (Falmouth)
+1167,Ainu                ,France,Falmouth
+1168,Malenasian Languages,France,Faroe Islands (Torshavn)
+1169,Ainu                ,France,Rome
+1170,Chinese             ,France,Fraser Island
+1171,Chinese             ,France,Flaam
+1172,Portuguese          ,French Guiana,Ft. Lauderdale
+1173,Arabic              ,French Polynesia,Florence
+1174,Ainu                ,French Polynesia,Madeira (Funchal)
+1175,Chinese             ,French Polynesia,Fortaleza
+1176,Ami                 ,French Polynesia,Freeport
+1177,Mixtec              ,French Polynesia,St Pierre et Miquelon
+1178,Serbo-Croatian      ,French Polynesia,Hakata
+1179,Danish              ,French Polynesia,Glacier Bay National Park
+1180,English             ,Gambia,Grand Cayman
+1181,Ainu                ,Georgia,Grand Turk
+1182,German              ,Germany,Geiranger
+1183,French              ,Germany,Geraldton
+1184,Aimar               ,Germany,Gamagori
+1185,Ainu                ,Germany,Rio de Janeiro
+1186,Ainu                ,Ghana,Gisborne
+1187,Arabic              ,Greece,Gijon
+1188,German              ,Greece,Glasgow (Greenock)
+1189,Asami               ,Greece,Galveston
+1190,Asami               ,Greece,Gladstone
+1191,Arabic              ,Greece,Isla Margarita
+1192,Arabic              ,Greece,Taormina (Giardini di Naxos)
+1193,Danish              ,Greece,Gran Canaria
+1194,Chinese             ,Greece,Genoa
+1195,Danish              ,Greece,Nuuk
+1196,Greek               ,Greece,New London
+1197,Bali                ,Greece,Gothenburg
+1198,Greek               ,Greece,Gravdal (Lofoten Islands)
+1199,Ainu                ,Greece,Glasgow (Greenock)
+1200,Ainu                ,Greece,Guam
+1201,Greek               ,Greece,Grundarfjordur
+1202,Arabic              ,Greece,Galway
+1203,Greek               ,Greece,Gythion
+1204,Greek               ,Greece,Guayaquil
+1205,Malenasian Languages,Greece,Hamburg
+1206,Ainu                ,Greece,Whitsunday
+1207,Bali                ,Greece,Haugesund
+1208,Ami                 ,Greece,Cai Lan-Halong Bay
+1209,German              ,Greece,Hobart (Tasmania)
+1210,Arabic              ,Greece,Helsingor
+1211,Greek               ,Greece,Hellesylt
+1212,Greek               ,Greece,Saint Helena
+1213,Ami                 ,Greece,Helsinki
+1214,Malenasian Languages,Greece,Crete (Heraklion)
+1215,Ainu                ,Greece,Hardangerfjord
+1216,Ainu                ,Greece,Nazareth/Galilee (Haifa)
+1217,Danish              ,Greece,Hammerfest
+1218,Arabic              ,Greece,Himeji
+1219,Belorussian         ,Greece,Hiroshima
+1220,Ainu                ,Greece,Guadalcanal (Honiara)
+1221,Ainu                ,Greece,Hiva Oa
+1222,Ami                 ,Greece,Hakodate
+1223,Hungarian           ,Greece,Hong Kong
+1224,Serbo-Croatian      ,Greece,Phuket
+1225,Ainu                ,Greece,Holyhead
+1226,Chinese             ,Greece,Honolulu
+1227,English             ,Greenland,Haines
+1228,Danish              ,Greenland,Azores Islands (Horta)
+1229,Malenasian Languages,Greenland,Houston
+1230,Ainu                ,Greenland,HMAS Sydney
+1231,Chinese             ,Guatemala,Gunkanjima (Hashima Island Scenic Cruising)
+1232,Ainu                ,Haiti,Zhoushan
+1233,Ainu                ,Honduras,Huahine
+1234,Malenasian Languages,Iceland,Hualien
+1235,Ainu                ,Iceland,Huatulco
+1236,Ambo                ,Iceland,Hvar
+1237,Goajiro             ,Iceland,Honningsvag (North Cape)
+1238,Mixtec              ,Iceland,Isafjordur
+1239,Chinese             ,Iceland,Iwo Jima
+1240,Greek               ,Iceland,Iwakuni
+1241,English             ,Iceland,Ilhabela
+1242,Arabic              ,India,Invergordon
+1243,Ane                 ,India,Intercurrence Island
+1244,Arabic              ,India,Isle of Pines
+1245,Chinese             ,India,Easter Island
+1246,Albaniana           ,India,Ishinomaki
+1247,French              ,India,Ishigaki
+1248,Chibcha             ,India,Istanbul
+1249,Portuguese          ,India,Itea
+1250,Arabic              ,India,Hilo
+1251,Albaniana           ,India,Itaqui
+1252,Chinese             ,Indonesia,Mangalore
+1253,Arabic              ,Indonesia,Andaman Islands (Port Blair)
+1254,Arabic              ,Indonesia,Incheon
+1255,Creole French       ,Indonesia,Jeddah
+1256,Mixtec              ,Indonesia,Fremantle
+1257,Bislama             ,Indonesia,Paamiut
+1258,Afrikaans           ,Indonesia,Maui (Lahaina)
+1259,Bislama             ,Indonesia,Jeju (Seogwipo)
+1260,Arabic              ,Indonesia,Qaqortoq
+1261,Danish              ,Indonesia,Chios
+1262,Ami                 ,Indonesia,Jakarta
+1263,Asami               ,Indonesia,Mykonos
+1264,Basque              ,Indonesia,Juneau
+1265,German              ,Ireland,Japan Inland Sea (Scenic Cruising)
+1266,Gusii               ,Ireland,Kanmon Straits
+1267,Creole English      ,Ireland,Skiathos
+1268,Arabic              ,Ireland,St Tropez
+1269,Ketua            ,Ireland,Santorini
+1270,French              ,Ireland,Katakolon (Olympia)
+1271,Arabic              ,Israel,Kawanasausau Strait &amp; Milne Bay
+1272,Mixtec              ,Israel,Kimberley Coast
+1273,Estonian            ,Israel,Kochi
+1274,Ainu                ,Italy,Komodo Island
+1275,Greek               ,Italy,Taipei (Keelung)
+1276,Chinese             ,Italy,Kiel Canal
+1277,English             ,Italy,Kangaroo Island
+1278,Bali                ,Italy,Kos
+1279,Ainu                ,Italy,Khios
+1280,Bicol               ,Italy,Kaohsiung
+1281,Greek               ,Italy,Kiriwina Island
+1282,Asami               ,Italy,Niigata
+1283,Albaniana           ,Italy,Hibiki
+1284,Basque              ,Italy,Kirkenes
+1285,Albaniana           ,Italy,Faroe Islands (Klaksvik)
+1286,Albaniana           ,Italy,Klaipeda
+1287,Basque              ,Italy,Miyazaki (Aburatsu)
+1288,Chinese             ,Italy,Kumamoto
+1289,Chuabo              ,Italy,Kinmen
+1290,Arabic              ,Italy,Ljubljana (Koper)
+1291,Bhojpuri            ,Italy,Korcula
+1292,Afar                ,Italy,Kona
+1293,Greek               ,Italy,Orkney Islands (Kirkwall)
+1294,Greek               ,Italy,Kagoshima
+1295,Arabic              ,Italy,Sihanoukville
+1296,Spanish             ,Italy,Kaikoura
+1297,Bislama             ,Italy,Kristiansand
+1298,Ainu                ,Italy,Kitava
+1299,Ainu                ,Italy,Ketchikan
+1300,Greek               ,Italy,Kusadasi
+1301,Ainu                ,Italy,Kumano
+1302,Ami                 ,Italy,Kuantan
+1303,Mixtec              ,Italy,Kushiro
+1304,Danish              ,Italy,Kaimondake Volcano
+1305,Greek               ,Italy,Kitava
+1306,Ainu                ,Italy,Kanazawa
+1307,Creole English      ,Italy,Lautoka
+1308,German              ,Italy,Luanda
+1309,Arabic              ,Italy,Caracas (La Guaira)
+1310,Arabic              ,Italy,La Paz
+1311,Gusii               ,Italy,Los Angeles
+1312,Arabic              ,Italy,Bangkok (Laem Chabang)
+1313,Arabic              ,Italy,Larnaca
+1314,Arabic              ,Jamaica,La Coruna
+1315,Arabic              ,Jamaica,Londonderry
+1316,Greek               ,Jamaica,Levuka
+1317,Bulgariana          ,Japan,St. Petersburg
+1318,Danish              ,Japan,Paris/Normandy (Le Havre)
+1319,Danish              ,Japan,Lome
+1320,English             ,Japan,Tunis (La Goulette)
+1321,Ainu                ,Japan,Los Angeles (Long Beach)
+1322,Ainu                ,Japan,Langkawi
+1323,Chinese             ,Japan,Florence/Pisa (Livorno)
+1324,Chinese             ,Japan,Lifou
+1325,Ful                 ,Japan,Kauai (Nawiliwili)
+1326,Arabic              ,Japan,Limon
+1327,French              ,Japan,Lisbon
+1328,French              ,Japan,Lulea (Lapland)
+1329,English             ,Japan,Sardinia (La Maddalena)
+1330,Bulgariana          ,Japan,Land
+1331,Arabic              ,Japan,Gran Canaria (Las Palmas)
+1332,Arabic              ,Japan,Liverpool
+1333,German              ,Japan,Lorient
+1334,Arabic              ,Japan,La Rochelle
+1335,Creole English      ,Japan,La Romana
+1336,Belorussian         ,Japan,Loreto
+1337,Ainu                ,Japan,Luganville
+1338,Ainu                ,Japan,Luderitz
+1339,Danish              ,Japan,Luganvile
+1340,Arabic              ,Japan,Bordeaux (Le Verdon)
+1341,Serbo-Croatian      ,Japan,Shetland Islands (Lerwick)
+1342,Portuguese          ,Japan,Longyearbyen (Spitsbergen)
+1343,English             ,Japan,Matsu (Nangan)
+1344,Ainu                ,Japan,Mayreau
+1345,Danish              ,Japan,Mayreau
+1346,Chibcha             ,Japan,Chennai
+1347,Arabic              ,Japan,Port Mahon
+1348,Arabic              ,Japan,Manaus
+1349,Bali                ,Japan,Mombasa
+1350,Albaniana           ,Japan,Montego Bay
+1351,French              ,Japan,Muscat (Mina Qaboos)
+1352,Arabic              ,Japan,Manta
+1353,Bali                ,Japan,Mare
+1354,Asami               ,Japan,Melbourne
+1355,Asami               ,Japan,Costa Maya (Mahahual)
+1356,Arabic              ,Japan,Milford Haven
+1357,English             ,Japan,Mariehamn
+1358,Chibcha             ,Japan,Mindelo
+1359,Creole English      ,Japan,Miyazaki (Hososhima)
+1360,Mixtec              ,Japan,Miami
+1361,Mixtec              ,Japan,Mytilene
+1362,English             ,Japan,Malacca
+1363,Portuguese          ,Japan,Valletta
+1364,Portuguese          ,Japan,Probolinggo
+1365,Portuguese          ,Japan,Murmansk
+1366,Spanish             ,Japan,Miyakojima
+1367,Afrikaans           ,Japan,Manila
+1368,Chinese             ,Japan,Monemvasia
+1369,Chinese             ,Japan,Goa (Mormugao)
+1370,Albaniana           ,Japan,Monfalcone
+1371,Albaniana           ,Japan,Motril (Granada)
+1372,Arabic              ,Japan,Monfalcone
+1373,Albaniana           ,Jordan,Monfalcone
+1374,Mixtec              ,Kenya,Motril
+1375,Chinese             ,Kenya,Moorea
+1376,Arabic              ,Kiribati,Maputo
+1377,Chinese             ,Latvia,Marigot
+1378,German              ,Lebanon,Marseille (Provence)
+1379,Aimar               ,Lithuania,Port Louis
+1380,Asami               ,Madagascar,Monterey
+1381,Chinese             ,Malaysia,Marlborough Sounds
+1382,Arabic              ,Malaysia,Milford Sound
+1383,Arabic              ,Malaysia,Massawa
+1384,Afrikaans           ,Malaysia,New Orleans
+1385,Basque              ,Malaysia,Mount Athos
+1386,Aimar               ,Malaysia,Montebello
+1387,Basque              ,Malaysia,Mythemna
+1388,Basque              ,Malta,Muscat
+1389,Albaniana           ,Mauritania,Montevideo
+1390,Goajiro             ,Mauritius,Mystery Island
+1391,Indian Languages    ,Mexico,Miyako
+1392,Bislama             ,Mexico,Matsuyama
+1393,Kongo               ,Mexico,Tinos
+1394,Malenasian Languages,Mexico,Maizuru
+1395,Asami               ,Mexico,Penghu (Magong)
+1396,Language,Country,City
+1397,Creole English      ,Mexico,Mazatlan
+1398,English             ,Mexico,Nanortalik
+1399,Chinese             ,Mexico,Nauplia
+1400,Cakchiquel          ,Mexico,Ny Alesund
+1401,Portuguese          ,Mexico,Naha
+1402,Greek               ,Mexico,Nananu-I-Ra
+1403,Czech               ,Mexico,Naples
+1404,Albaniana           ,Mexico,Nassau
+1405,Portuguese          ,Mexico,Natal
+1406,Arabic              ,Mexico,San Blas Islands
+1407,Afrikaans           ,Mexico,Narbonne
+1408,Albaniana           ,Mexico,Nairobi
+1409,Aimar               ,Monaco,Panama Canal Full Transit New Locks
+1410,Arabic              ,Morocco,Panama Canal Partial Transit New Locks
+1411,Chinese             ,Mozambique,Panama Canal Partial Transit New Locks
+1412,Greek               ,Myanmar,Nice
+1413,Albaniana           ,Myanmar,Newcastle
+1414,Arabic              ,Namibia,New Corinth
+1415,Arabic              ,Namibia,Nessebar
+1416,Armenian            ,Namibia,Nordfjordland
+1417,Aimar               ,Netherlands,Nordfjord
+1418,Chinese             ,New Caledonia,Niuafoou
+1419,French              ,New Caledonia,Nagoya
+1420,Albaniana           ,New Caledonia,Nagasaki
+1421,Greek               ,New Caledonia,Nha Trang
+1422,Albaniana           ,New Caledonia,Nuku Hiva
+1423,Mixtec              ,New Caledonia,Nouakchott
+1424,Greek               ,New Caledonia,Normandy
+1425,Chinese             ,New Zealand,Nosy Be
+1426,Goajiro             ,New Zealand,Noumea
+1427,Chinese             ,New Zealand,Napier
+1428,Basque              ,New Zealand,Newport
+1429,Basque              ,New Zealand,Nessebur
+1430,Arabic              ,New Zealand,Nantes
+1431,Greek               ,New Zealand,Newcastle
+1432,Albaniana           ,New Zealand,Nuremberg
+1433,Ainu                ,New Zealand,New Orleans
+1434,Ainu                ,New Zealand,Stockholm (Nynashamn)
+1435,Arabic              ,New Zealand,New York City (Manhattan or Brooklyn)
+1436,Belorussian         ,New Zealand,North Sea Channel
+1437,Malenasian Languages,New Zealand,Oban
+1438,Albaniana           ,New Zealand,Ocho Rios
+1439,English             ,New Zealand,Odessa
+1440,Albaniana           ,New Zealand,Kahului
+1441,Afrikaans           ,Nicaragua,Yonaguni
+1442,German              ,Nicaragua,Okinawa
+1443,English             ,Norway,Olden
+1444,Danish              ,Norway,Colon
+1445,Chinese             ,Norway,Opatija
+1446,Chinese             ,Norway,Oporto
+1447,Burmese             ,Norway,Norfolk
+1448,Greek               ,Norway,Cork
+1449,Belorussian         ,Norway,Osaka
+1450,Serbo-Croatian      ,Norway,Oslo
+1451,English             ,Norway,Puntarenas
+1452,German              ,Norway,Fuerte Amador
+1453,Danish              ,Norway,Port Arthur (Tasmania)
+1454,Burmese             ,Norway,Panama Canal Full Transit
+1455,Arabic              ,Norway,Bali (Padang Bay)
+1456,Albaniana           ,Norway,Sicily (Palermo)
+1457,Creole English      ,Norway,Padang
+1458,Creole English      ,Norway,Port-au-Prince
+1459,Arabic              ,Norway,PARIS
+1460,Creole French       ,Norway,Bali (Padang Bay)
+1461,Aimar               ,Norway,Porbandar
+1462,German              ,Norway,Port Blair
+1463,Ainu                ,Norway,Panama Canal Partial Transit
+1464,Abhyasi             ,Norway,Prins Christian Sund
+1465,Creole English      ,Norway,Dunedin (Port Chalmers)
+1466,Serbo-Croatian      ,Norway,Port Canaveral
+1467,Aimar               ,Norway,Puerto Caldera
+1468,Chinese             ,Norway,Puerto Corinto
+1469,Danish              ,Norway,Puerto Chiapas
+1470,Creole French       ,Norway,Playa del Carmen
+1471,English             ,Norway,Picton
+1472,Arabic              ,Norway,Port Denarau
+1473,Chinese             ,Norway,Azores Islands (Ponta Delgada)
+1474,Ainu                ,Norway,Azores Islands (Ponta Delgada)
+1475,Ainu                ,Norway,Azores Islands (Ponta Delgada)
+1476,Ainu                ,Norway,Punta Del Este
+1477,Chinese             ,Norway,Port Elizabeth
+1478,Greek               ,Norway,Beijing (Xingang)
+1479,Creole English      ,Norway,Penang
+1480,Mixtec              ,Oman,Porto Empedocle
+1481,Chibcha             ,Oman,Porto Empedo
+1482,English             ,Oman,Perth (Fremantle)
+1483,Danish              ,Panama,Elba (Portoferraio)
+1484,Ainu                ,Panama,Pointe des Galets
+1485,Greek               ,Panama,Progreso
+1486,Greek               ,Panama,Ho Chi Minh City (Phu My)
+1487,Aimar               ,Panama,Phillip Island
+1488,Albaniana           ,Panama,Newport News
+1489,Arabic              ,Panama,Philadelphia
+1490,Albaniana           ,Panama,Port Hardy
+1491,Greek               ,Panama,Parintins
+1492,Albaniana           ,Papua New Guinea,Pisco (San Martin)
+1493,Greek               ,Papua New Guinea,Paradip
+1494,Arawakan            ,Papua New Guinea,Kuala Lumpur (Port Kelang)
+1495,Albaniana           ,Papua New Guinea,Petropavlovsk
+1496,Danish              ,Papua New Guinea,Panama Canal Partial Transit Historic Locks
+1497,English             ,Papua New Guinea,Cornwall (Plymouth)
+1498,Arabic              ,Papua New Guinea,Port Lincoln
+1499,Arabic              ,Papua New Guinea,Port Elizabeth
+1500,Greek               ,Papua New Guinea,Palma
+1501,Danish              ,Peru,Puerto Montt
+1502,Bislama             ,Peru,Port Mahon
+1503,Ainu                ,Peru,Mallorca (Palma)
+1504,Serbo-Croatian      ,Peru,Sicily (Palermo)
+1505,Arabic              ,Philippines,Isla Margarita
+1506,Bali                ,Philippines,Puerto Madryn
+1507,English             ,Poland,Pentecost Island
+1508,Chinese             ,Portugal,Pointe-Noire
+1509,German              ,Portugal,Portland
+1510,Arabic              ,Portugal,Port Moresby
+1511,Greek               ,Portugal,Porbandar
+1512,German              ,Portugal,Trinidad
+1513,Albaniana           ,Portugal,Pago Pago
+1514,Creole French       ,Portugal,Tahiti (Papeete)
+1515,Danish              ,Portugal,Puerto Quetzal
+1516,Arabic              ,Portugal,Praia Rocha
+1517,Arabic              ,Puerto Rico,Preveza
+1518,Bali                ,Qatar,Prague
+1519,Danish              ,Romania,Capri
+1520,Danish              ,Russian Federation,Algarve Coast (Portimao)
+1521,Albaniana           ,Sao Tome and Principe,Corsica (Propriano)
+1522,Arabic              ,Saudi Arabia,Pretoria
+1523,Greek               ,Senegal,Portoroz
+1524,Chinese             ,Slovenia,Icy Strait Point
+1525,English             ,Solomon Islands,Icy Strait Point
+1526,Ainu                ,South Africa,Pisco
+1527,Chinese             ,South Africa,Port Said
+1528,English             ,South Africa,Pasajes
+1529,English             ,South Africa,Port Stanley
+1530,Basque              ,South Africa,Patmos
+1531,Akan                ,South Africa,Positano
+1532,Arabic              ,South Africa,Portree (Isle of Skye)
+1533,Chinese             ,South Africa,Port Douglas
+1534,Greek               ,South Korea,Port Sudan
+1535,Danish              ,South Korea,Port Madryn
+1536,Greek               ,South Korea,Punta Arenas
+1537,Albaniana           ,Spain,Busan
+1538,Ainu                ,Spain,Poum
+1539,Estonian            ,Spain,Portovenere
+1540,Arabic              ,Spain,Preveza
+1541,Belorussian         ,Spain,Portovenere
+1542,Arabic              ,Spain,Puerto Vallarta
+1543,Arabic              ,Spain,Portland
+1544,Crioulo             ,Spain,Prince William Sound
+1545,Basque              ,Spain,Pio XI Glacier
+1546,Arabic              ,Spain,Pylos
+1547,Mixtec              ,Spain,Pattaya/ Bankok
+1548,Ainu                ,Spain,Puerto Ordaz (Orinoco River)
+1549,Danish              ,Spain,Qingdao
+1550,Ainu                ,Spain,Tarragona
+1551,Albaniana           ,Spain,Ciudadela
+1552,German              ,Spain,Skagen
+1553,Ainu                ,Spain,Limassol
+1554,Arabic              ,Spain,Sicily (Messina)
+1555,Danish              ,Spain,Otaru
+1556,Albaniana           ,Spain,London (Dover)
+1557,English             ,Spain,London (Harwich)
+1558,Danish              ,Spain,Muroran
+1559,Albaniana           ,Sri Lanka,Sousse
+1560,Albaniana           ,Sudan,Vaduz
+1561,Arabic              ,Sweden,Gdansk (Gdynia)
+1562,Greek               ,Sweden,Rabaul
+1563,Chinese             ,Sweden,Marrakech
+1564,Arabic              ,Sweden,Ravenna
+1565,Chinese             ,Sweden,Rarotonga
+1566,Arabic              ,Sweden,Ravenna
+1567,Ami                 ,Sweden,Richards Bay
+1568,Ainu                ,Switzerland,Recife
+1569,French              ,Switzerland,Reykjavik
+1570,Arabic              ,Taiwan,Romsdalfjord
+1571,Avarian             ,Taiwan,Raiatea
+1572,Ketua            ,Taiwan,Rangiroa
+1573,Ainu                ,Taiwan,Yangon
+1574,Bali                ,Taiwan,Rhodes
+1575,Arabic              ,Taiwan,Riga
+1576,Indian Languages    ,Taiwan,Rijeka
+1577,Chinese             ,Tanzania,Rockland
+1578,Danish              ,Thailand,Reykjavik
+1579,French              ,Thailand,Berlin (Warnemunde)
+1580,Danish              ,Thailand,Ramsdalfjord
+1581,Aimar               ,Thailand,Rangoon
+1582,Bulgariana          ,Thailand,Bornholm
+1583,English             ,Thailand,Edinburgh (Rosyth)
+1584,Arabic              ,Thailand,Rome (Civitavecchia)
+1585,Albaniana           ,Togo,Rotuma
+1586,English             ,Tonga,Sorrento
+1587,Basque              ,Tonga,Princess Cays
+1588,Danish              ,Tonga,Roatan
+1589,Albaniana           ,Trinidad and Tobago,Rotterdam
+1590,Czech               ,Trinidad and Tobago,Luxor/Karnak (Safaga)
+1591,Basque              ,Tunisia,Samana
+1592,Bislama             ,Tunisia,Saguenay
+1593,Greek               ,Tunisia,Santiago (San Antonio)
+1594,Arabic              ,Tunisia,San Diego
+1595,Chinese             ,Turkey,Sao Paulo
+1596,Afrikaans           ,Turkey,Sapporo
+1597,English             ,Turkey,Savannah
+1598,Afrikaans           ,Turkey,Tobago (Scarborough)
+1599,Arabic              ,Turkey,Scrabster
+1600,English             ,Turkey,Sibenik
+1601,Bislama             ,Turkey,Santa Barbara
+1602,Arabic              ,Turkey,Santiago
+1603,Afrikaans           ,Turkey,Sandakan
+1604,Arabic              ,Ukraine,Sandane
+1605,Chinese             ,Ukraine,Santo Domingo
+1606,English             ,United Arab Emirates,Seattle
+1607,Chinese             ,United Kingdom,Seydisfjordur
+1608,Chibcha             ,United Kingdom,Anchorage (Seward)
+1609,Arabic              ,United Kingdom,St Florent
+1610,Arabic              ,United States,San Francisco
+1611,Arabic              ,United States,Sarangani Bay
+1612,Arabic              ,Uruguay,Ho Chi Minh City
+1613,Arabic              ,Uruguay,Skagway
+1614,Belorussian         ,Vanuatu,Shimizu
+1615,Chinese             ,Vanuatu,Shingu
+1616,Ainu                ,Vanuatu,Wakayama (Shimotsu)
+1617,Ainu                ,Vanuatu,Shanghai
+1618,Arabic              ,Vanuatu,Samothrace
+1619,Ainu                ,Vanuatu,Sigma Island
+1620,Ainu                ,Vanuatu,Sitka
+1621,Chinese             ,Venezuela,San Juan del Sur
+1622,Chinese             ,Venezuela,Cabo San Lucas
+1623,Serbo-Croatian      ,Venezuela,St. Johns
+1624,Greek               ,Venezuela,San Jose
+1625,Greek               ,Vietnam,San Juan
+1626,Arabic              ,Vietnam,Skjolden/Sognefjord
+1627,Mixtec              ,Vietnam,Sakata
+1628,Mixtec              ,Vietnam,Thessaloniki
+1629,Chaga and Pare      ,Vietnam,Skopelos
+1630,Bali                ,Vietnam,Salaverry
+1631,French              ,Yemen,Salerno
